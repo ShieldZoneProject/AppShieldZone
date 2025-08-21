@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ShieldZoneProject/AppShieldZone/blob/main/assets/ShieldZone-IconProfile02.jpg" width="200" alt="icone"/>
+  <img src="https://github.com/ShieldZoneProject/AppShieldZone/blob/main/assets/ShieldZone-IconProfile01.jpg" width="200" alt="icone"/>
 </p>
 
 <h1 align="center">ShieldZone</h1>

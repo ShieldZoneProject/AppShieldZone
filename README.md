@@ -20,7 +20,7 @@ O objetivo central do projeto é aumentar a segurança elétrica das residência
 
 <p align="center">
   <a href="https://www.instagram.com/shieldzone.project/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram"/>
-    @shieldzone.project
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" alt="Instagram" style="vertical-align: middle;"/> 
+    <span style="vertical-align: middle;">@shieldzone.project</span>
   </a>
 </p>
